@@ -23,7 +23,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | a PHP script and you can easily do that on your own.
 |
 */
-$config['base_url'] = 'http://localhost/ikanhias/'; //digunakan untuk melakukan konfigurasi terhadap url yang akan diakses
+$config['base_url'] = 'http://localhost/dytashofia-CI.3.E41181255_P5/ikanhias2/'; //digunakan untuk melakukan konfigurasi terhadap url yang akan diakses
 
 /*
 |--------------------------------------------------------------------------
