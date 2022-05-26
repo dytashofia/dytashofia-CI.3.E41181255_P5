@@ -12,7 +12,7 @@
             <div class="col-lg-10">
                 <form action="<?php echo base_url() . 'C_ikanhias/tambah_ikan_hias'; ?>" method="post">
                     <div class="form-group">
-                        <label for="nama_ikan"> Nama Ikan Hias : </label>
+                        <label for="nama_ikan"> Nama Ikan Hias Ekonomis : </label>
                         <input type="text" class="form-control form-control-user" id="nama_ikan" name="nama_ikan" placeholder="Masukan nama ikan hias" title="Isikan data dengan benar" required pattern="[a-zA-Z\s]+">
                     </div>
                     <div class="form-group">
